@@ -1,0 +1,5 @@
+.idea/
+dms_env/
+.env/
+*.sqlite3
+*.pyc
